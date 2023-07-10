@@ -1,1 +1,2 @@
-# HidroponikTower <br>Copyright by Brian Daniel Napitupulu 2023
+# HidroponikTower <br>
+<p>&copy; 2023 Brian Daniel Napitupulu</p>
